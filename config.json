@@ -51,18 +51,18 @@
         }
     },
     "base_stats": {
-        "Strength": 22,
+        "Strength": 22  ,
         "Dexterity": 158,
         "Intelligence": 5,
         "Focus": 11,
         "Constitution": 49
     },
     "character": {
-        "level": 36,
-        "primary_weapon": "Bow",
-        "primary_base_dmg": 128,
-        "secondary_weapon": "Rapier",
-        "secondary_base_dmg": 128
+        "level": 60,
+        "primary_weapon": "Rapier",
+        "primary_base_dmg": 148,
+        "secondary_weapon": "Spear",
+        "secondary_base_dmg": 171
     },
     "app_settings": {
         "desired_ap_to_constitution": 0
